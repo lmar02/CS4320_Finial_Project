@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MoveingScript1 : MonoBehaviour
+public class MovingScript1 : MonoBehaviour
 {
 
     private float journeyLength;
